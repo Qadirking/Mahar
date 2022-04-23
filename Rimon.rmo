@@ -1,0 +1,4 @@
+apt update
+apt upgrade
+apt install python
+apt Install python2
